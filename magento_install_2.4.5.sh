@@ -4,24 +4,24 @@
 
 # magento
 
-MAGENTO_ADMIN_USERNAME=admin
-MAGENTO_ADMIN_EMAIL=admin@admin.com
-MAGENTO_ADMIN_PASSWORD=admin@123
+MAGENTO_ADMIN_USERNAME=dev@emmpressit.com.au
+MAGENTO_ADMIN_EMAIL=dev@emmpressit.com.au
+MAGENTO_ADMIN_PASSWORD=Support@123
 
 # Database
-MAGENTO_DATABASE=magento 
+MAGENTO_DATABASE=magento245 
 MAGENTO_DATABASE_USERNAME=magentip
 MAGENTO_DATABASE_PASSWORD=magento@123
 
-SITE_NAME=magento245@emmpressit.net.au # Site domain
-BASE_URL=https://magento245@emmpressit.net.au
+SITE_NAME=magento245.emmpressit.net.au # Site domain
+BASE_URL=https://magento245.emmpressit.net.au
 
 # For ftp
 MAGENTO_SYSTEM_USER=magento
 MAGENTO_SYSTEM_PASSWORD=magento@123
 
 #Elasticsearch
-ELASTICSEARCH_HOST=localhost
+ELASTICSEARCH_HOST=149.28.172.9
 ELASTICSEARCH_PORT=8080
 
 
